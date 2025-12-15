@@ -1,5 +1,5 @@
-# An AI based project 
-  Game: Rock, Paper, Scissors [AI BASED ]
+# AI project 
+  Game: Rock, Paper, Scissors 
 ## This is not just a random game. It has a strategical Master Mind of it's own.
   This is a Python-based Rock, Paper, SCissors Game that learns from the user's moves and analyzes every move 
 
