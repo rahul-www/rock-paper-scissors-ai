@@ -32,7 +32,7 @@ while True:
         print("You Win!")
         player_score += 1 ## updateplayer score
     else:
-        print("Comouter Wins!")
+        print("Computer Wins!")
         computer_score += 1 ## update computer score
     print(f"Scores => Player: {player_score}, Computer:{computer_score}")    
    
